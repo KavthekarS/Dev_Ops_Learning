@@ -1,2 +1,2 @@
-# Dev_Ops_Learning
+# DevOps_Learning
 Dev Ops practice
